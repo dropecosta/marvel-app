@@ -72,7 +72,7 @@ const CharacterDetail = ({
             <ul>{renderSeries()}</ul>
           </Series>
 
-          <Link to="/">
+          <Link to="/marvel-app/">
             <Button type="button" className="back-button">
               Back
             </Button>

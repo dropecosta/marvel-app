@@ -1,17 +1,27 @@
-import React from 'react'
-import logo from '../../util/assets/marvel.svg'
-import {connect} from 'react-redux'
-import {bindActionCreators} from 'redux'
+import React from 'react';
+import logo from '../../util/assets/marvel.svg';
+import { Link } from "react-router-dom";
+import {connect} from 'react-redux';
+import {bindActionCreators} from 'redux';
 import {clear} from '../../redux/actions/charactersAction'
 import { Header } from './styles.js';
+import { useHistory } from 'react-router-dom'
 
-const Menu = ({clear}) => (
-  <Header className="navbar navbar-dark">
-    <a className="navbar-brand" href="/" onClick={() => clear()}>
+
+const Menu = ({clear}) => {
+
+  const handleClick = () => {
+    window.location.href = '/';
+  }
+
+  return (
+  <Header>
+    <button onClick={() => handleClick()}>
       <img src={logo} width="30" height="30" className="logo" alt="Logo Marvel" />
-    </a>
+    </button>
   </Header>
-)
+  )
+}
 
 const mapStateToProps = state => ({})
 const mapDispatchToProps = dispatch => bindActionCreators({clear}, dispatch)

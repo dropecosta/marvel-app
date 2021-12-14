@@ -55,8 +55,12 @@ export const Search = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 600px;
+  max-width: 600px;
   margin: 30px auto;
+
+  @media screen and (max-width: 970px) {
+    width: 80%;
+}
 
   .searchTerm {
     width: 100%;

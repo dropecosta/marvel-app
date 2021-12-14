@@ -10,8 +10,10 @@ export const Header = styled.nav`
     background: #000;
     padding: 30px 45px;
 
+
     .logo {
       width: 180px;
       height: auto;
+      cursor: pointer;
     }
 `
