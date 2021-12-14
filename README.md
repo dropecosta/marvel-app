@@ -4,6 +4,10 @@
 The Marvel Comics API allows developers to access information about Marvel's vast library of
 comics.
 
+## Demo
+
+:desktop_computer: https://dropecosta.github.io/marvel-app/
+
 
 ## Screenshots
 
@@ -41,10 +45,5 @@ Start the server
 
 ## Authors
 
-- [@dropecosta](https://github.com/dropecosta)
+:curly_haired_man: [@dropecosta](https://github.com/dropecosta)
 
-
-
-## Demo
-
-https://dropecosta.github.io/marvel-app/
