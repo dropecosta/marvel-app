@@ -7,8 +7,9 @@ comics.
 
 ## Screenshots
 
-![Home Screenshot]![image](![image](https://user-images.githubusercontent.com/13908414/145943737-828547b8-9e20-47e5-a7a3-2453c7817813.png))
-![Details Page Screenshot]![image](![image](![image](https://user-images.githubusercontent.com/13908414/145943985-9ba7c634-d264-41fd-b719-f4ba8eace578.png)))
+
+![Home screenshot](https://dropecosta.github.io/marvel-app/img/marvel_screen.png)
+![Details page screenshot](https://dropecosta.github.io/marvel-app/img/marvel_screen2.png)
 
 
 ## Run Locally
