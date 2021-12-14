@@ -14,6 +14,5 @@ export const Header = styled.nav`
     .logo {
       width: 180px;
       height: auto;
-      cursor: pointer;
     }
 `
