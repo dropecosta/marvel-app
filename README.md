@@ -47,3 +47,7 @@ Start the server
 
 :curly_haired_man: [@dropecosta](https://github.com/dropecosta)
 
+Pedro Reis
+dropecosta@gmail.com
++55 21 99989-7328
+
