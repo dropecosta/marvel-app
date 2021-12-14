@@ -11,7 +11,7 @@ import { useHistory } from 'react-router-dom'
 const Menu = ({clear}) => {
 
   const handleClick = () => {
-    window.location.href = '/marvel-app/';
+    window.location.href = '/';
   }
 
   return (
