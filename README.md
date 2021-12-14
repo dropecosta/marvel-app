@@ -45,9 +45,7 @@ Start the server
 
 ## Authors
 
-:curly_haired_man: [@dropecosta](https://github.com/dropecosta)
-
-<strong>Pedro Reis</strong><br/>
+:curly_haired_man: <strong>Pedro Reis</strong> | [@dropecosta](https://github.com/dropecosta)<br/>
 dropecosta@gmail.com<br/>
 +55 21 99989-7328<br/>
 
